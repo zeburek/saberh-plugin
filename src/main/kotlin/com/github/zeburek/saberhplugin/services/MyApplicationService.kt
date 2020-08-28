@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.zeburek.saberhplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.zeburek.saberhplugin.MyBundle
 
 class MyApplicationService {
 
